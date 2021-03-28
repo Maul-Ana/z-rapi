@@ -2,7 +2,7 @@ __path = process.cwd()
 
 var express = require('express')
 var router = express.Router()
-var creatorList = ['@zefianalfian', '@isywl_','@rickoveriyanto','@zefianalfian', '@isywl_','@rickoveriyanto','@zefianalfian', '@isywl_','@rickoveriyanto']
+var creatorList = ['@MR_09', '@riski.pfp','@Maul','@MR_09', '@riski.pfp','@riski.pfp','@Maul', '@riski.pfp','@Maul']
 var creator = creatorList[Math.floor(Math.random() * creatorList.length)]
 
 /* GET users listing. */

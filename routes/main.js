@@ -13,9 +13,9 @@ router.get('/config', (req, res) => {
         result: {
             prefix : '/',
             namabot: 'ZZBot',
-            namaowner: 'ZefianAlfian',
-            instagram: 'zefianalfian',
-            youtube : 'ZefianAlfian'
+            namaowner: 'MR Bot',
+            instagram: 'riski.pfp',
+            youtube : 'MR_09'
         }
     }
     res.json(config)
